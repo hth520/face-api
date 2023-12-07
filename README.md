@@ -37,12 +37,12 @@ module.exports = defineConfig({
 
 ```js
 //用于监测脸部点位确定嘴巴位置
-npm i @mediapipe/tasks-vision": "0.10.3"
+npm i @mediapipe/tasks-vision@0.10.3
 //用于监测脸部点位确定嘴巴位置
-npm i @tensorflow/tfjs-core": "^4.14.0"
+npm i @tensorflow/tfjs-core@4.14.0
 //用于对图像进行美化操作，目前只做了双边滤波的操作
-npm i @techstark/opencv-js": "^4.8.0-release.10"
+npm i @techstark/opencv-js@4.8.0-release.10
 
 ```
 
-具体参数，详见 `imageClipper`类，可根据需求自行修改调整滤镜或者裁剪图片等参数
+### Tip：对于图片裁剪：具体参数，详见 `imageClipper`类，可根据需求自行修改调整滤镜或者裁剪图片等参数
