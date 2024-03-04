@@ -7,6 +7,9 @@
 
 <script>
 // import FaceRecognize from "@/components/faceRecognize/index.vue";
+
+//1
+// test
 import MediaPipe from "@/components/mediaPipe/index.vue";
 
 export default {
